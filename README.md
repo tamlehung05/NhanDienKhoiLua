@@ -198,16 +198,16 @@ Dự án được phát triển bởi 4 thành viên:
 
 | Họ và Tên         | Vai trò |
 |------------------|----------------------------------------------------------------|
-| **Lê Hưng Tâm**   | Phát triển toàn bộ mã nguồn, thiết kế cơ sở dữ liệu, kiểm thử, triển khai dự án và thực hiện video giới thiệu. |
-| **Trịnh Kiều Trinh** | Biên soạn tài liệu Overleaf, Poster, PowerPoint, thuyết trình, đề xuất cải tiến, và hỗ trợ bài tập lớn. |
+| **Lê Hưng Tâm**   | Phát triển toàn bộ mã nguồn, thiết kế cơ sở dữ liệu, kiểm thử, thuyết trình, triển khai dự án. |
+| **Trịnh Kiều Trinh** | Biên soạn tài liệu Overleaf, Poster, PowerPoint, đề xuất cải tiến, và hỗ trợ bài tập lớn. |
 | **Bùi Huy Phúc**   | Thiết kế slide PowerPoint, hỗ trợ bài tập lớn. |
 | **Lê Quang Huy**   | Hỗ trợ bài tập lớn. |
 
-© 2025 NHÓM 1, CNTT17-11 TRƯỜNG ĐẠI HỌC ĐẠI NAM  
+© 2025 NHÓM 1, CNTT17-11, AI NHẬN DIỆN KHÓI VÀ LỬA, TRƯỜNG ĐẠI HỌC ĐẠI NAM  
 
 ---
 © 2025 **GitHub, Inc.**  
-[Terms](#)  [Privacy](#)  [Security](#)  [Status](#)  [Docs](#)  [Contact](#)  [Manage cookies](#)  [Do not share my personal information](#)
+
 
 
 
