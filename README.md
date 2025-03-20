@@ -56,6 +56,7 @@ Dự án này sử dụng công nghệ AI để nhận diện khói và lửa tr
 ---
 
 📂 Cấu trúc dự án
+
 📞 TriTueNhanTao
 
 ├── 📂 img # Thư mục chứa hình ảnh liên quan đến hệ thống
