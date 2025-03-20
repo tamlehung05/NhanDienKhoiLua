@@ -60,13 +60,13 @@ Dự án này sử dụng công nghệ AI để nhận diện khói và lửa tr
 
 ├── 📂 img # Thư mục chứa hình ảnh liên quan đến hệ thống
 
-├── nhom1.pptx # File PowerPoint trình bày về hệ thống
+├── 📂 nhom1.pptx # File PowerPoint trình bày về hệ thống
 
-├── opencv_test.py # Mã nguồn sử dụng OpenCV để quét QR
+├── 📂 opencv_test.py # Mã nguồn sử dụng OpenCV để quét QR
 
-├── Untitled.wfp # File dự án Wondershare Filmora
+├── 📂 Untitled.wfp # File dự án Wondershare Filmora
 
-├── video.mp4 # Video minh họa hoạt động của hệ thống
+├── 📂 video.mp4 # Video minh họa hoạt động của hệ thống
 
 🛠️ CÔNG NGHỆ Sử DỤNG
 
