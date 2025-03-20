@@ -1,7 +1,8 @@
 # 🔥 AI NHẬN DIỆN KHÓI VÀ LỬA  
 
-[![DNU Logo](![image](https://github.com/user-attachments/assets/c863ae00-e3c0-4895-8f87-2ab93cab0070)
-)]([https://dainam.edu.vn](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-17%20205953.png?raw=true))
+[![DNU Logo](![image](https://github.com/user-attachments/assets/bc63eb3d-7808-4299-a129-eceff639c430)
+)
+)]([[https://dainam.edu.vn](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-17%20205953.png?raw=true)](https://raw.githubusercontent.com/chinhliki/Nhan-dien-khuon-mat/refs/heads/main/Screenshot%202025-03-17%20205953.png))
 
 
 
